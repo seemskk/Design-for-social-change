@@ -7,4 +7,4 @@ The objective of the course was to trigger design intervention in social issues 
 
 The intervention is a culmination of using all their skills and mediums they learned so far in earlier semesters. They were encourgaed to use graphics, data, animation/ video, partcipatory techniques to get the maximum results. 
 
-The 4 week module is a process oriented course that takes through the concept - storyboard - execution - presenation stages.
+The 4 week module is a process oriented course that takes through the concept - storyboard - execution - presentation stages.
