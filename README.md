@@ -8,4 +8,5 @@ The objective of the course was to trigger design intervention in social issues 
 The intervention is a culmination of using all their skills and mediums they learned so far in earlier semesters. They were encouraged to use graphics, data, animation/ video, participatory techniques to get the maximum results. 
 
 The 4 week module is a process oriented course that takes through the concept - storyboard - execution - presentation stages.
-<a href="https://github.com/seemskk/Design-for-social-change/issues" target="_blank" rel="noopener noreferrer">Design For social change</a>
+
+<a href="[https://github.com/seemskk/Design-for-social-change/issues](https://github.com/seemskk/Design-for-social-change/issues?q=is%3Aissue+is%3Aclosed)" target="_blank" rel="noopener noreferrer">Design For social change 2014 - 2018 course work is archived here.</a>
