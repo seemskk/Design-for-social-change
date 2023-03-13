@@ -9,4 +9,4 @@ The intervention is a culmination of using all their skills and mediums they lea
 
 The 4 week module is a process oriented course that takes through the concept - storyboard - execution - presentation stages.
 
-<a href="[https://github.com/seemskk/Design-for-social-change/issues](https://github.com/seemskk/Design-for-social-change/issues?q=is%3Aissue+is%3Aclosed)" target="_blank" rel="noopener noreferrer">Design For social change 2014 - 2018 course work is archived here.</a>
+<a href="https://github.com/seemskk/Design-for-social-change/issues?q=is%3Aissue+is%3Aclosed" target="_blank" rel="noopener noreferrer">Design For social change 2014 - 2018 course work is archived here.</a>
